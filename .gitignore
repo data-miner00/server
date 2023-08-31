@@ -1,0 +1,7 @@
+# Output files
+*.o
+*.a
+*.out
+
+# Cache
+/.cache

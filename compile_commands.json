@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/http_server.o",
+      "src/http_server.c"
+    ],
+    "directory": "/mnt/d/Workspace/projects/server",
+    "file": "/mnt/d/Workspace/projects/server/src/http_server.c",
+    "output": "/mnt/d/Workspace/projects/server/src/http_server.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/mnt/d/Workspace/projects/server",
+    "file": "/mnt/d/Workspace/projects/server/src/main.c",
+    "output": "/mnt/d/Workspace/projects/server/src/main.o"
+  }
+]
