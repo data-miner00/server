@@ -8,9 +8,9 @@
       "src/http_server.o",
       "src/http_server.c"
     ],
-    "directory": "/mnt/d/Workspace/projects/server",
-    "file": "/mnt/d/Workspace/projects/server/src/http_server.c",
-    "output": "/mnt/d/Workspace/projects/server/src/http_server.o"
+    "directory": "/home/mumk/Workspace/server",
+    "file": "/home/mumk/Workspace/server/src/http_server.c",
+    "output": "/home/mumk/Workspace/server/src/http_server.o"
   },
   {
     "arguments": [
@@ -21,8 +21,8 @@
       "src/main.o",
       "src/main.c"
     ],
-    "directory": "/mnt/d/Workspace/projects/server",
-    "file": "/mnt/d/Workspace/projects/server/src/main.c",
-    "output": "/mnt/d/Workspace/projects/server/src/main.o"
+    "directory": "/home/mumk/Workspace/server",
+    "file": "/home/mumk/Workspace/server/src/main.c",
+    "output": "/home/mumk/Workspace/server/src/main.o"
   }
 ]
