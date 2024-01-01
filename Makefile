@@ -7,10 +7,10 @@ objects	=$(sources:.c=.o)
 flags	=-g -Wall -lm -ldl -fPIC -rdynamic -I./include
 
 $(exec): $(objects)
-	gcc $(objects) $(flags) -o $(exec)
+	$(CC) $(objects) $(flags) -o $(exec)
 
 %.o: %.c %.h
-	gcc -c $(flags) $< -o $@
+	$(CC) -c $(flags) $< -o $@
 
 clean:
 	-rm *.out
